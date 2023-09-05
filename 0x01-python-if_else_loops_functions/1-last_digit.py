@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# Author --Yassine Hachami
+
 import random
 number = random.randint(-10000, 10000)
 digit = abs(number) % 10
